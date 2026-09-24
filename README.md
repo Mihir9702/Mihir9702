@@ -1,16 +1,15 @@
-## Hi there 👋
+<img src="cube.svg" width="32" height="32" alt="">
 
-<!--
-**Mihir9702/Mihir9702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mihir, a software developer in Pennsylvania. I build full-stack web and mobile apps, and the occasional game. My site is **[hellomihir.com](https://hellomihir.com)**, and the name at the top of it is a small platformer you can play.
 
-Here are some ideas to get you started:
+#### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Aura](https://github.com/Mihir9702/Aura)**: a paper-trading research workspace with a double-entry ledger and audited kill switches. Python, FastAPI, PostgreSQL, React.
+- **[Jump](https://github.com/Mihir9702/jump)**: a 2.5D platformer in Three.js and TypeScript, with keyboard, gamepad and touch controls. [Play it in your browser](https://mihir9702.github.io/jump/).
+- **Adiya OS**: the internal system that runs orders, artwork, production, quality and shipping at Adiya Pharma. Private.
+
+#### Stack
+
+TypeScript, Go, Python, Java and SQL. React and Next.js on the front end; Node.js, FastAPI and Spring on the back end; PostgreSQL, Redis and MongoDB for data. I'm comfortable on Linux, with networking and security.
+
+[LinkedIn](https://www.linkedin.com/in/mihirpatel97) · [hellomihir.com](https://hellomihir.com)
