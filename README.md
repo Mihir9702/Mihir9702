@@ -5,7 +5,7 @@ I'm Mihir, a software engineer in Pennsylvania. I build full-stack web and mobil
 #### Projects
 
 - **[Aura](https://github.com/Mihir9702/Aura)**: a paper-trading research workspace with a double-entry ledger and audited kill switches. Python, FastAPI, PostgreSQL, React.
-- **[Discord clone](https://github.com/Mihir9702/discord)**: reverse-engineered and rebuilt from scratch, with friends, DMs, servers with text channels, invite links, roles and moderation, and live updates over WebSockets. TypeScript, React, GraphQL, Node.js, PostgreSQL.
+- **[Discord](https://github.com/Mihir9702/discord)**: reverse-engineered and rebuilt from scratch, with friends, DMs, servers with text channels, invite links, roles and moderation, and live updates over WebSockets. TypeScript, React, GraphQL, Node.js, PostgreSQL.
 - **[Jump](https://github.com/Mihir9702/jump)**: a 2.5D platformer in Three.js and TypeScript, with keyboard, gamepad and touch controls. [Play it in your browser](https://mihir9702.github.io/jump/).
 - **Adiya OS**: the internal system that runs orders, artwork, production, quality and shipping at Adiya Pharma, where I lead its development. React, TypeScript, Node.js, PostgreSQL, Prisma. Private.
 
