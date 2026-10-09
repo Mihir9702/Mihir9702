@@ -10,10 +10,12 @@ I'm Mihir, a software engineer in Pennsylvania. I build full-stack applications,
 
 ## Stack
 
-- **Languages:** TypeScript, JavaScript, Python, Java, SQL
-- **Frontend:** React, Next.js, Vite, Tailwind CSS
-- **Backend & data:** Node.js, Express, FastAPI, PostgreSQL, Prisma, SQLAlchemy, Redis
-- **Testing & systems:** Vitest, Playwright, pytest, Docker, Linux/WSL2, Git, GitHub Actions
-- **Developer tooling:** JSON Schema, Cloudflare, Vercel
+- **Languages:** TypeScript, JavaScript, Go, Python, Java, SQL
+- **Frontend:** React, Next.js, Vue, Vite, Tailwind CSS, Electron, Three.js
+- **Backend:** Node.js, Express, FastAPI, GraphQL, Spring, Django
+- **Data:** PostgreSQL, Prisma, SQLAlchemy, Redis, MongoDB, Firebase, pgvector
+- **Testing:** Vitest, Playwright, pytest, Ruff, mypy
+- **Systems & cloud:** Linux / WSL2, Docker, Docker Compose, networking, security, AWS, Cloudflare, Vercel, Aiven
+- **Developer tools:** Git, GitHub Actions, JSON Schema, Figma, Vim, Asana
 
 [LinkedIn](https://www.linkedin.com/in/mihirpatel7) · [Portfolio](https://hellomihir.com) · [Portfolio source](https://github.com/Mihir9702/hellomihir.com)
