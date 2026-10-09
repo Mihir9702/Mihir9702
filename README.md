@@ -18,4 +18,4 @@ I'm Mihir, a software engineer in Pennsylvania. I build full-stack applications,
 - **Systems & cloud:** Linux / WSL2, Docker, Docker Compose, networking, security, AWS, Cloudflare, Vercel, Aiven
 - **Developer tools:** Git, GitHub Actions, JSON Schema, Figma, Vim, Asana
 
-[LinkedIn](https://www.linkedin.com/in/mihirpatel7) · [Portfolio](https://hellomihir.com) · [Portfolio source](https://github.com/Mihir9702/hellomihir.com)
+[LinkedIn](https://www.linkedin.com/in/mihirpatelswe) · [Portfolio](https://hellomihir.com) · [Portfolio source](https://github.com/Mihir9702/hellomihir.com)
