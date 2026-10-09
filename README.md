@@ -1,6 +1,6 @@
 <img src="cube.svg" width="32" height="32" alt="">
 
-I'm Mihir, a software engineer in Pennsylvania. I build full-stack applications, developer tools, and experimental systems. My portfolio is **[hellomihir.com](https://hellomihir.com)** — the name at the top is a tiny playable platformer.
+I'm Mihir, a software engineer in Pennsylvania. I build full-stack applications, developer tools, and experimental systems.
 
 ## Selected projects
 
@@ -18,4 +18,4 @@ I'm Mihir, a software engineer in Pennsylvania. I build full-stack applications,
 - **Systems & cloud:** Linux / WSL2, Docker, Docker Compose, networking, security, AWS, Cloudflare, Vercel, Aiven
 - **Developer tools:** Git, GitHub Actions, JSON Schema, Figma, Vim, Asana
 
-[LinkedIn](https://www.linkedin.com/in/mihirpatelswe) · [Portfolio](https://hellomihir.com)
+[LinkedIn](https://www.linkedin.com/in/mihirpatelswe) · [My Website](https://hellomihir.com)
