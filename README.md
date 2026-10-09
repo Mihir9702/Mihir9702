@@ -4,9 +4,9 @@ I'm Mihir, a software engineer in Pennsylvania. I build full-stack applications,
 
 ## Selected projects
 
-- **[Intent](https://github.com/Mihir9702/intent)** — a typed intermediate representation for human–AI development instructions. Its canonical ontology, deterministic validation, and independent verification tools make ambiguity and conflicting operations visible before execution. TypeScript, JSON Schema.
-- **[Aura](https://github.com/Mihir9702/aura)** — a paused, paper-only trading research workspace. Built the authenticated app, PostgreSQL double-entry ledger, audited safety controls, and tests; market-data and AI-trading features remain unimplemented. Python, FastAPI, SQLAlchemy, React, TypeScript.
-- **[Asterion-256](https://github.com/Mihir9702/Asterion-256)** — experimental, unaudited hash-construction research with a specification, independent TypeScript and Python implementations, and test vectors. **Not for production cryptography.**
+- **[Intent](https://github.com/Mihir9702/intent)**: an experimental typed representation for human-AI development instructions, with a canonical ontology and deterministic checks for ambiguity and conflicting operations. TypeScript.
+- **[Aura](https://github.com/Mihir9702/aura)**: a paper-trading research workspace with a double-entry ledger and audited safety controls. The app and accounting foundation are implemented; market data and AI analysis remain in the design stage. Python, FastAPI, PostgreSQL, React.
+- **[Asterion-256](https://github.com/Mihir9702/Asterion-256)**: an experimental, unaudited 256-bit ARX sponge hash with a formal specification, independent TypeScript and Python implementations, and test vectors. Research only; not for production cryptography.
 
 ## Stack
 
