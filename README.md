@@ -2,7 +2,7 @@
 
 I'm Mihir, a software engineer in Pennsylvania.
 
-## AI Slop
+## Projects
 
 - **[Intent](https://github.com/Mihir9702/intent)**: a typed representation for human-AI development instructions, with a canonical ontology and deterministic checks for ambiguity and conflicting operations.
 - **[Aura](https://github.com/Mihir9702/aura)**: a paper-trading research workspace with a double-entry ledger and audited safety controls. The app and accounting foundation are implemented; market data and AI analysis remain in the design stage. Python, FastAPI, PostgreSQL, React.
